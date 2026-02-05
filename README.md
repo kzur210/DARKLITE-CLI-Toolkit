@@ -19,3 +19,8 @@ Running the Project:
 The project can run on Visual Studio.  
 Note: Some ASCII graphics may not display correctly in certain IDEs.  
 For the full ASCII visual experience, it is recommended to run it on an online compiler like [JDoodle](https://www.jdoodle.com/).
+
+Screenshots:
+1. https://github.com/kzur210/DARKLITE-CLI-Toolkit/blob/main/DarkliteOutput-1ss.png
+2. https://github.com/kzur210/DARKLITE-CLI-Toolkit/blob/main/DarkliteOutput-2ss.png
+3. https://github.com/kzur210/DARKLITE-CLI-Toolkit/blob/main/DarkliteOutput-3ss.png
